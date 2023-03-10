@@ -39,13 +39,4 @@ namespace BankTransactions.Models
 
         
     }
-
-	//create a class with properties firstname, lastname, delivery address, contact number
-    public class Customer
-    {
-		public string FirstName { get; set; }
-		public string LastName { get; set; }
-		public string DeliveryAddress { get; set; }
-		public string ContactNumber { get; set; }
-	}
 }
